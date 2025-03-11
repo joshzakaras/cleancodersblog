@@ -1,3 +1,7 @@
+## Josh's Blog!
+
+[A letter to the Clean Coders](./Blogs/03-10-2025.md)
+
 ## Most Recent Post
 
 [11-08-2024](./Blogs/11-08-2024.md)
@@ -5,7 +9,7 @@
 ## Past Posts
 
 [11-07-2024](./Blogs/11-07-2024.md)\
-[11-04-2024](./Blogs/11-04-2024.md)
+[11-04-2024](./Blogs/11-04-2024.md)\
 [10-31-2024](./Blogs/10-31-2024.md)\
 [10-30-2024](./Blogs/10-30-2024.md)\
 [10-14-2024](./Blogs/10-14-2024.md)\
